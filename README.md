@@ -1,7 +1,7 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
 <h3>Dharani Elango</h3>
 <h3>212221230021</h3>
-<h3>EX. NO:5</h3>
+<h3>EX. NO:6</h3>
 <h3>DATE:06/05/2024</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
